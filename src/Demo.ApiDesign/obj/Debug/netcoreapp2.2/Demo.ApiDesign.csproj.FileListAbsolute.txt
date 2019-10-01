@@ -1,0 +1,3 @@
+C:\Users\scleynen\source\repos\Demo.ApiDesign\Demo.ApiDesign\obj\Debug\netcoreapp2.2\Demo.ApiDesign.csproj.CoreCompileInputs.cache
+C:\Users\scleynen\source\repos\Demo.ApiDesign\Demo.ApiDesign\obj\Debug\netcoreapp2.2\Demo.ApiDesign.AssemblyInfoInputs.cache
+C:\Users\scleynen\source\repos\Demo.ApiDesign\Demo.ApiDesign\obj\Debug\netcoreapp2.2\Demo.ApiDesign.AssemblyInfo.cs

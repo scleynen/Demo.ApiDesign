@@ -1,0 +1,16 @@
+C:\Users\scleynen\source\repos\Demo.ApiDesign\Demo.ApiDesign.Cache\obj\Debug\netcoreapp2.2\Demo.ApiDesign.Cache.AssemblyInfoInputs.cache
+C:\Users\scleynen\source\repos\Demo.ApiDesign\Demo.ApiDesign.Cache\obj\Debug\netcoreapp2.2\Demo.ApiDesign.Cache.AssemblyInfo.cs
+C:\Users\scleynen\source\repos\Demo.ApiDesign\Demo.ApiDesign.Cache\bin\Debug\netcoreapp2.2\Demo.ApiDesign.Cache.deps.json
+C:\Users\scleynen\source\repos\Demo.ApiDesign\Demo.ApiDesign.Cache\bin\Debug\netcoreapp2.2\Demo.ApiDesign.Cache.runtimeconfig.json
+C:\Users\scleynen\source\repos\Demo.ApiDesign\Demo.ApiDesign.Cache\bin\Debug\netcoreapp2.2\Demo.ApiDesign.Cache.runtimeconfig.dev.json
+C:\Users\scleynen\source\repos\Demo.ApiDesign\Demo.ApiDesign.Cache\bin\Debug\netcoreapp2.2\Demo.ApiDesign.Cache.dll
+C:\Users\scleynen\source\repos\Demo.ApiDesign\Demo.ApiDesign.Cache\bin\Debug\netcoreapp2.2\Demo.ApiDesign.Cache.pdb
+C:\Users\scleynen\source\repos\Demo.ApiDesign\Demo.ApiDesign.Cache\obj\Debug\netcoreapp2.2\Demo.ApiDesign.Cache.csprojAssemblyReference.cache
+C:\Users\scleynen\source\repos\Demo.ApiDesign\Demo.ApiDesign.Cache\obj\Debug\netcoreapp2.2\Demo.ApiDesign.Cache.RazorAssemblyInfo.cache
+C:\Users\scleynen\source\repos\Demo.ApiDesign\Demo.ApiDesign.Cache\obj\Debug\netcoreapp2.2\Demo.ApiDesign.Cache.RazorAssemblyInfo.cs
+C:\Users\scleynen\source\repos\Demo.ApiDesign\Demo.ApiDesign.Cache\obj\Debug\netcoreapp2.2\Demo.ApiDesign.Cache.RazorTargetAssemblyInfo.cache
+C:\Users\scleynen\source\repos\Demo.ApiDesign\Demo.ApiDesign.Cache\obj\Debug\netcoreapp2.2\Demo.ApiDesign.Cache.dll
+C:\Users\scleynen\source\repos\Demo.ApiDesign\Demo.ApiDesign.Cache\obj\Debug\netcoreapp2.2\Demo.ApiDesign.Cache.pdb
+C:\Users\scleynen\source\repos\Demo.ApiDesign\Demo.ApiDesign.Cache\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\scleynen\source\repos\Demo.ApiDesign\Demo.ApiDesign.Cache\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\scleynen\source\repos\Demo.ApiDesign\Demo.ApiDesign.Cache\bin\Debug\netcoreapp2.2\Properties\launchSettings.json

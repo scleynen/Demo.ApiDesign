@@ -1,0 +1,7 @@
+C:\Users\scleynen\source\repos\Demo.ApiDesign\bin\Debug\appsettings.Development.json
+C:\Users\scleynen\source\repos\Demo.ApiDesign\bin\Debug\appsettings.json
+C:\Users\scleynen\source\repos\Demo.ApiDesign\bin\Debug\Properties\launchSettings.json
+C:\Users\scleynen\source\repos\Demo.ApiDesign\bin\Debug\Demo.ApiDesign.Cache.dll
+C:\Users\scleynen\source\repos\Demo.ApiDesign\bin\Debug\Demo.ApiDesign.Cache.pdb
+C:\Users\scleynen\source\repos\Demo.ApiDesign\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\scleynen\source\repos\Demo.ApiDesign\obj\Debug\docker-compose.dcproj.CopyComplete
