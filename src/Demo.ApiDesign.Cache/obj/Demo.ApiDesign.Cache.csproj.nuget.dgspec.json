@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\scleynen\\source\\repos\\Demo.ApiDesign\\Demo.ApiDesign.Cache\\Demo.ApiDesign.Cache.csproj": {}
+    "C:\\Projects\\Demo.ApiDesign\\src\\Demo.ApiDesign.Cache\\Demo.ApiDesign.Cache.csproj": {}
   },
   "projects": {
-    "C:\\Users\\scleynen\\source\\repos\\Demo.ApiDesign\\Demo.ApiDesign.Cache\\Demo.ApiDesign.Cache.csproj": {
+    "C:\\Projects\\Demo.ApiDesign\\src\\Demo.ApiDesign.Cache\\Demo.ApiDesign.Cache.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\scleynen\\source\\repos\\Demo.ApiDesign\\Demo.ApiDesign.Cache\\Demo.ApiDesign.Cache.csproj",
+        "projectUniqueName": "C:\\Projects\\Demo.ApiDesign\\src\\Demo.ApiDesign.Cache\\Demo.ApiDesign.Cache.csproj",
         "projectName": "Demo.ApiDesign.Cache",
-        "projectPath": "C:\\Users\\scleynen\\source\\repos\\Demo.ApiDesign\\Demo.ApiDesign.Cache\\Demo.ApiDesign.Cache.csproj",
+        "projectPath": "C:\\Projects\\Demo.ApiDesign\\src\\Demo.ApiDesign.Cache\\Demo.ApiDesign.Cache.csproj",
         "packagesPath": "C:\\Users\\scleynen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\scleynen\\source\\repos\\Demo.ApiDesign\\Demo.ApiDesign.Cache\\obj\\",
+        "outputPath": "C:\\Projects\\Demo.ApiDesign\\src\\Demo.ApiDesign.Cache\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -45,11 +45,19 @@
               "target": "Package",
               "version": "[4.0.0, )"
             },
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[3.1.6, )"
             },
             "Microsoft.AspNetCore.Razor.Design": {
               "suppressParent": "All",

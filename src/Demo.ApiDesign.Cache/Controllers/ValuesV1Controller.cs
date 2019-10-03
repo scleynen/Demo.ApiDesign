@@ -7,14 +7,15 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Demo.ApiDesign.Cache.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/values")]
     [ApiController]
-    public class ValuesController : ControllerBase
+    [ApiVersion("1.0")]
+    public class ValuesControllerV1 : ControllerBase
     {
         // GET api/values
         [HttpGet]
-        [HttpCacheExpiration(CacheLocation = CacheLocation.Public, MaxAge = 99999)]
-        [HttpCacheValidation(MustRevalidate = true)]
+        [ResponseCache(VaryByHeader = "api-version", NoStore = true)]
+        [Consumes("application/vnd.product.1")]
         public ActionResult<IEnumerable<string>> Get()
         {
             return new string[] { "value1", "value2" };
@@ -22,8 +23,6 @@ namespace Demo.ApiDesign.Cache.Controllers
 
         // GET api/values/5
         [HttpGet("{id}")]
-        [HttpCacheExpiration(CacheLocation = CacheLocation.Private, MaxAge = 1337)]
-        [HttpCacheValidation]
         public ActionResult<string> Get(int id)
         {
             return "value";

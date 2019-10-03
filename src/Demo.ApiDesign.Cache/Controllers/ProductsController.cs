@@ -11,8 +11,11 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Demo.ApiDesign.Cache.Controllers
 {
-    [Route("api/[controller]")]
     [ApiController]
+    //[ApiVersion("1")]
+    //[ApiVersion("2")]
+    //[Route("api/v{ver:apiVersion}/products")]
+    [Route("api/products")]
     public class ProductsController : ControllerBase
     { 
         private DemoDbContext _context;
@@ -29,10 +32,17 @@ namespace Demo.ApiDesign.Cache.Controllers
             return Ok(product);
         }
 
+
         [HttpGet]
         public async Task<IActionResult> Get()
         {
            return Ok(await _context.Products.ToListAsync());
+        }
+
+        [HttpGet, MapToApiVersion("2")]
+        public async Task<IActionResult> GetV2()
+        {
+            return Ok(await _context.Products.Select(p => new { Name = p.ProductName, Description = p.ProductDescription }).ToListAsync());
         }
 
         [HttpPost]
